@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Harsh Raj 👋
 
-<!--
-**harshraj441/harshraj441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | 💻 Full Stack Developer | C++ & DSA
 
-Here are some ideas to get you started:
+I'm learning to build useful software and solving problems through Data Structures and Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- Practicing DSA in C++
+- Building projects using the MERN stack
+- Improving my software development skills
+
+## 🛠️ Tech Stack
+- Languages: C++, JavaScript, HTML, CSS
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+## 📌 My Projects
+- [DevTrack Pro](https://github.com/harshraj441/devtrack-pro)
+- [DSA Practice](https://github.com/harshraj441/DSA-Practice)
+- [Simon Game](https://github.com/harshraj441/simon-game)
+- [Spotify Clone](https://github.com/harshraj441/spotify-clone)
+
+## 🎯 My Goal
+To become a skilled software engineer and contribute to real-world projects.
+
